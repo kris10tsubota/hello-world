@@ -1,2 +1,4 @@
 # hello-world
-hw week 3
+wassup
+
+Kristen is here! I'm learning to code yo. 
